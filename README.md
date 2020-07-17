@@ -10,6 +10,7 @@ Discord bot simplifying channel administration
   - add token and owner id to the appropriate places in Bot.java 
 
 ### Available commands
+* !help - gets all commands with description
 * !ban (@users) (reason) - Bans mentioned users for 1 day
 * !clear (num) - deletes last num messages from char, if num not indicated deletes last 10
 * !info (@user) - shows account info of mentioned user
