@@ -1,2 +1,2 @@
-# discord-deputy-bot
+# Personal deputy
 Discord bot simplifying channel administration 
